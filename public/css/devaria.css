@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color:#201758;
+    font-family:sans-serif;
+    color:#ffffff;
+    margin: 1px;
+}
+
+.tittle {
+    padding: 0px 20px;
+    font-size: 1.75em;
+    text-transform:uppercase;
+}
+
+h1.tittle {
+    margin: 40px auto 20px;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin-horizontal {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+@media screen and (min-width:992px) {
+    .w-50-desktop{
+        width:50% !important;
+    }
+}
