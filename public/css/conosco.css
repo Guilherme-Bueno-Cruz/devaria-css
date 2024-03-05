@@ -74,7 +74,7 @@ main .contact-form > div input[type="reset"]{
         width: 95%;
 }
 
-    main .contact-form select{`
+    main .contact-form select{
     width: 40%;
 }
     main .contact-form > div input[type="submit"],
@@ -87,5 +87,4 @@ main .contact-form > div input[type="reset"]{
     main .contact-form > div input[type="submit"]{
         margin-right:20px;
     }
-
 }
